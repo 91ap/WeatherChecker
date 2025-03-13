@@ -19,9 +19,6 @@
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background" translatesAutoresizingMaskIntoConstraints="NO" id="O08-5g-CL5">
                                 <rect key="frame" x="0.0" y="0.0" width="402" height="871.66666666666663"/>
-                                <constraints>
-                                    <constraint firstAttribute="width" secondItem="O08-5g-CL5" secondAttribute="height" multiplier="131:284" id="q2M-1z-zfl"/>
-                                </constraints>
                             </imageView>
                             <stackView opaque="NO" contentMode="scaleToFill" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="mjB-vf-oJ0">
                                 <rect key="frame" x="16" y="68" width="370" height="40"/>
@@ -71,7 +68,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <stackView opaque="NO" contentMode="scaleToFill" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="Pad-de-Or5" userLabel="temp">
-                                <rect key="frame" x="16" y="291.33333333333326" width="191" height="95.666666666666742"/>
+                                <rect key="frame" x="16" y="291.33333333333331" width="191" height="95.666666666666686"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="75" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gEv-Wv-CeG">
                                         <rect key="frame" x="0.0" y="0.0" width="96" height="95.666666666666671"/>
